@@ -36,14 +36,14 @@ The dataset used for this project is available as a CSV file named `incomea.csv`
 
 ## Results
 - The RandomForestClassifier model achieved an accuracy of 87% on the test set.
-- Feature importance analysis suggests that `feature_1`, `feature_2`, and `feature_3` are the most important features for predicting income levels.
+- Feature importance analysis suggests that `Age`, `Education-Num/level of Education`, and `hours-per-week` are the most important features for predicting income levels.
 
 ## Future Improvements
 - Further tuning of hyperparameters for better model performance.
 - Experimenting with different machine learning models for comparison.
 
 ## Credits
-- This project is based on a dataset from [Kaggle DataSet]((https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)).
+- This project is based on a dataset from [Kaggle DataSet](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset).
 - The code and documentation were created by [Daniels Shashkov](https://github.com/DanShash).
 
 Feel free to contribute to this project by forking and submitting a pull request!
