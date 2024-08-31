@@ -1,5 +1,4 @@
 ---
-
 # Income Prediction Project
 
 ## Overview
@@ -44,6 +43,6 @@ The dataset used for this project is available as a CSV file named `incomea.csv`
 - This project is based on a dataset from [Kaggle DataSet](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset).
 - The code and documentation were created by [Daniels Shashkov](https://github.com/DanShash).
 
-Feel free to contribute to this project by forking and submitting a pull request!
+Feel free to contribute to this project by forking and submitting a pull request! 
 
 ---
