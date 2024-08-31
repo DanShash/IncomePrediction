@@ -1,5 +1,3 @@
-Certainly! Here's a template for your README.md file:
-
 ---
 
 # Income Prediction Project
